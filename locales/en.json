@@ -1,0 +1,14 @@
+{
+  "inactive": "💤 <b>Nothing is playing on Spotify right now</b>",
+  "auth_error": "⚠️ <b>Spotify authorization error</b>\n\n<i>Failed to access Spotify API. Check configuration.</i>",
+  "api_error": "⚠️ <b>Spotify API Error</b>\n\n<i>Error code: {error_code}</i>",
+  "connection_error": "⚠️ <b>Connection problem</b>\n\n<i>Failed to connect to servers. Error: {error_msg}</i>",
+  "unknown_track": "Unknown track",
+  "unknown_artist": "Unknown artist",
+  "unknown_album": "Unknown album",
+  "now_playing": "🎧 <b>Now playing on Spotify</b>\n\n",
+  "track": "Track",
+  "artist": "Artist",
+  "album": "Album",
+  "initializing": "💤 <b>Initializing Spotify status...</b>"
+}
