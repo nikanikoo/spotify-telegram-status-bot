@@ -1,4 +1,5 @@
 <div align="center">
+  <img width="464" height="238" alt="image" src="https://github.com/user-attachments/assets/e412408b-f534-4ee3-b940-64dbd8873867" />
   <h1>Spotify to Telegram Status Bot</h1>
   <p><b>Скрипт на Python для трансляции проигрываемого трека Spotify в сообщение Telegram-канала в реальном времени.</b></p>
   <div>
